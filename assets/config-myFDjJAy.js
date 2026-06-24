@@ -1,0 +1,1 @@
+var e=`https://api.mapman.in`;export{e as t};
